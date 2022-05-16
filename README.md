@@ -1,13 +1,3 @@
----
-title: 我的电子书
-permalink: /mybook.html
-date: 2022-02-19 23:22:10
-tags: [Book]
-keywords: [书,PDF,电子书]
-categories: Book
-index_img: /img/favicon256.png
----
-
 近年来国内版权管理越來越严了，以下列表中是我已经有的，如果你需要可以发邮件给我。当然如果你需要列表中没有的，也可以发邮件给我，我收集到了会添加进来
 
 以下是我收藏的PDF版书的列表，当前总大小为46GB
